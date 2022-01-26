@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">lessonAndroid1</string>
+    <string name="hello">Hello!</string>
+    <string name="strData">Дата</string>
+    <string name="btn">Кнопка</string>
+    <string name="swt">Переключатель</string>
+    <string name="chBox">Да/Нет</string>
+    <string name="tBut">ToggleButton</string>
 </resources>
